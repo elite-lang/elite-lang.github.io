@@ -1,0 +1,21 @@
+{
+  "name": "elite-lang.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elite-lang/elite-lang.github.io.git"
+  },
+  "author": "elite team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elite-lang/elite-lang.github.io/issues"
+  },
+  "homepage": "https://github.com/elite-lang/elite-lang.github.io#readme"
+}
